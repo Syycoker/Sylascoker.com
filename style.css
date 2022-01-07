@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#page-container{
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap{
+    padding-bottom: 2.5rem;
+}
+
+nav{
+    flex: auto;
+    flex-direction: row;
+}
+
+nav ul li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#First-Half-Title{
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
+
+#Second-Half-Title{
+    text-align: left;
+    font-weight: bold;
+    color: blue;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
