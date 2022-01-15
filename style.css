@@ -161,6 +161,7 @@ body {
   border-radius: 25px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .project-container h1{
@@ -168,7 +169,7 @@ body {
 }
 
 .project-container #Project-Title{
-  margin: 20px;
+  position: absolute;
 }
 
 .project-container p{
@@ -176,6 +177,7 @@ body {
 }
 
 .project-container .projects{
+  margin: 0 3px;
   margin-top: 60px;
   border-radius: 10px;
   background-color: white;
@@ -189,6 +191,10 @@ body {
   display: block;
   margin: auto auto;
   width: 50%;
+}
+
+input{
+  webkit-appearance: none;
 }
 
 footer{
