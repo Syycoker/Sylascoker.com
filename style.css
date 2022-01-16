@@ -140,18 +140,22 @@ body {
   list-style-type: none;
   list-style: none;
   text-align: center;
+  justify-content: center;
 }
 
 .about-row{
     margin: 1rem;
     padding: 2rem 2rem;
     text-align: center;
+    justify-content: center;
 }
 
 .about-columns{
     display: inline-block;
     padding: 1rem 1rem;
     vertical-align: middle;
+    text-align: center;
+    justify-content: center;
 }
 
 .project-container{
@@ -193,8 +197,8 @@ body {
   width: 50%;
 }
 
-input{
-  webkit-appearance: none;
+.contact-container {
+  text-align: center;
 }
 
 footer{
