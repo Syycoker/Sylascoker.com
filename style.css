@@ -111,7 +111,7 @@ body {
 }
 
 section{
-  min-height: 100vh;
+  min-height: 90vh;
   width: 100%;
   display: flex;
   align-items: center;
@@ -158,27 +158,27 @@ section{
 }
 
 #project-one{
-  background-image: url(img/pp.jpg);
+
 }
 
 #project-two{
-  background-image: url(img/pp.jpg);
+
 }
 
 #project-three{
-  background-image: url(img/pp.jpg);
+
 }
 
 #project-four{
-  background-image: url(img/pp.jpg);
+
 }
 
 #project-five{
-  background-image: url(img/pp.jpg);
+
 }
 
 #project-six{
-  background-image: url(img/pp.jpg);
+
 }
 
 .right{
